@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Игра в крестики-нолики</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+    <canvas id="gameCanvas" width="300" height="300"></canvas>
+    <button id="restart" onclick="location.reload()">Restart</button>
+    <script src="botEasy.js"></script>
+
+</body>
+</html>
